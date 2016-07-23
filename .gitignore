@@ -1,0 +1,5 @@
+data/
+*~
+Base_de_datos.ipynb
+.ipynb_checkpoints/
+.gitignore
